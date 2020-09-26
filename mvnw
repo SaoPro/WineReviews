@@ -39,3 +39,18 @@ if [ -z "$MAVEN_SKIP_RC" ] ; then
 
   if [ -f /usr/local/etc/mavenrc ] ; then
     . /usr/local/etc/mavenrc
+  fi
+
+  if [ -f /etc/mavenrc ] ; then
+    . /etc/mavenrc
+  fi
+
+  if [ -f "$HOME/.mavenrc" ] ; then
+    . "$HOME/.mavenrc"
+  fi
+
+fi
+
+# OS specific support.  $var _must_ be set to either true or false.
+cygwin=false;
+darwin=false;
