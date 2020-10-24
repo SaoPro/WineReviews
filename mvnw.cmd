@@ -1,2 +1,2 @@
 @REM ----------------------------------------------------------------------------
-@REM Licensed to the Apache Softw
+@REM Licensed to the Apache Software Foundation 
