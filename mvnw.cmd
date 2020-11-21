@@ -4,4 +4,5 @@
 @REM distributed with this work for additional information
 @REM regarding copyright ownership.  The ASF licenses this file
 @REM to you under the Apache License, Version 2.0 (the
-@REM "License"); you may not use this file except in compli
+@REM "License"); you may not use this file except in compliance
+@REM with the 
