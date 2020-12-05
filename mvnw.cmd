@@ -9,4 +9,4 @@
 @REM
 @REM    https://www.apache.org/licenses/LICENSE-2.0
 @REM
-@REM Unless required by applicable 
+@REM Unless required by applicable law or agreed to in
