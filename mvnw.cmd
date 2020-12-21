@@ -12,4 +12,4 @@
 @REM Unless required by applicable law or agreed to in writing,
 @REM software distributed under the License is distributed on an
 @REM "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-@REM KIND, either expr
+@REM KIND, either express or implied.  See the
