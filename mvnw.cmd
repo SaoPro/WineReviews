@@ -13,4 +13,5 @@
 @REM software distributed under the License is distributed on an
 @REM "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
 @REM KIND, either express or implied.  See the License for the
-@REM specific language governing permissions and lim
+@REM specific language governing permissions and limitations
+@REM under th
