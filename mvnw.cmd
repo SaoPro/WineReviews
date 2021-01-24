@@ -20,4 +20,5 @@
 @REM ----------------------------------------------------------------------------
 @REM Maven Start Up Batch script
 @REM
-@REM Required ENV var
+@REM Required ENV vars:
+@REM JA
