@@ -21,4 +21,4 @@
 @REM Maven Start Up Batch script
 @REM
 @REM Required ENV vars:
-@REM JA
+@REM JAVA_HOME 
