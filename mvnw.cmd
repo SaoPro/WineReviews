@@ -24,4 +24,4 @@
 @REM JAVA_HOME - location of a JDK home dir
 @REM
 @REM Optional ENV vars
-@REM M2
+@REM M2_HOME - location of m
