@@ -24,4 +24,5 @@
 @REM JAVA_HOME - location of a JDK home dir
 @REM
 @REM Optional ENV vars
-@REM M2_HOME - location of maven2's instal
+@REM M2_HOME - location of maven2's installed home dir
+@R
