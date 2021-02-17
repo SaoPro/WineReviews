@@ -25,4 +25,4 @@
 @REM
 @REM Optional ENV vars
 @REM M2_HOME - location of maven2's installed home dir
-@R
+@REM MAVEN_BATCH_ECHO -
