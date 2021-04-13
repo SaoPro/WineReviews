@@ -33,4 +33,4 @@
 @REM MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 @REM ----------------------------------------------------------------------------
 
-@REM Begin
+@REM Begin all REM lines 
