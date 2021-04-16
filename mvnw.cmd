@@ -35,4 +35,4 @@
 
 @REM Begin all REM lines with '@' in case MAVEN_BATCH_ECHO is 'on'
 @echo off
-@REM s
+@REM set title of command w
