@@ -37,4 +37,4 @@
 @echo off
 @REM set title of command window
 title %0
-@REM enable ech
+@REM enable echoing by setting
