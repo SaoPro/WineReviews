@@ -41,4 +41,4 @@ title %0
 @if "%MAVEN_BATCH_ECHO%" == "on"  echo %MAVEN_BATCH_ECHO%
 
 @REM set %HOME% to equivalent of $HOME
-if "%
+if "%HOME%" == "" 
