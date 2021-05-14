@@ -44,4 +44,4 @@ title %0
 if "%HOME%" == "" (set "HOME=%HOMEDRIVE%%HOMEPATH%")
 
 @REM Execute a user defined script before this one
-if not "%MAVEN_SKIP_RC
+if not "%MAVEN_SKIP_RC%" == "" goto ski
