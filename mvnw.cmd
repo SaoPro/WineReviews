@@ -44,4 +44,4 @@ title %0
 if "%HOME%" == "" (set "HOME=%HOMEDRIVE%%HOMEPATH%")
 
 @REM Execute a user defined script before this one
-if 
+if not "%MAVEN_SKIP_RC
