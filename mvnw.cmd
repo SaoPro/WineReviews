@@ -45,4 +45,4 @@ if "%HOME%" == "" (set "HOME=%HOMEDRIVE%%HOMEPATH%")
 
 @REM Execute a user defined script before this one
 if not "%MAVEN_SKIP_RC%" == "" goto skipRcPre
-@REM check for pre script, once 
+@REM check for pre script, once with legacy .bat end
