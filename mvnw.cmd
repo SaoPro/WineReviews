@@ -52,4 +52,6 @@ if exist "%USERPROFILE%\mavenrc_pre.cmd" call "%USERPROFILE%\mavenrc_pre.cmd" %*
 
 @setlocal
 
-set ERROR_CO
+set ERROR_CODE=0
+
+@REM To isolat
