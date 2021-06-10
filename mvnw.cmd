@@ -57,4 +57,4 @@ set ERROR_CODE=0
 @REM To isolate internal variables from possible post scripts, we use another setlocal
 @setlocal
 
-@REM ==== STA
+@REM ==== START VALIDATION
