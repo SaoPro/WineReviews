@@ -61,4 +61,4 @@ set ERROR_CODE=0
 if not "%JAVA_HOME%" == "" goto OkJHome
 
 echo.
-ec
+echo Error: JAVA
