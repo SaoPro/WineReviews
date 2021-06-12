@@ -58,4 +58,7 @@ set ERROR_CODE=0
 @setlocal
 
 @REM ==== START VALIDATION ====
-if not "%JAVA_HOME%" == "" goto 
+if not "%JAVA_HOME%" == "" goto OkJHome
+
+echo.
+ec
