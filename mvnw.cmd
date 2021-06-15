@@ -62,4 +62,4 @@ if not "%JAVA_HOME%" == "" goto OkJHome
 
 echo.
 echo Error: JAVA_HOME not found in your environment. >&2
-echo Please s
+echo Please set the JAVA_HOME va
