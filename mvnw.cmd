@@ -68,4 +68,4 @@ echo.
 goto error
 
 :OkJHome
-if exist "%JAVA_HOM
+if exist "%JAVA_HOME%\bin\java.exe" 
