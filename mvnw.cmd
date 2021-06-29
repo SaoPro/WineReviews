@@ -71,4 +71,4 @@ goto error
 if exist "%JAVA_HOME%\bin\java.exe" goto init
 
 echo.
-e
+echo Error: JA
