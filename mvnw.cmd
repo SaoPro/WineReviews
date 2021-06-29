@@ -68,4 +68,7 @@ echo.
 goto error
 
 :OkJHome
-if exist "%JAVA_HOME%\bin\java.exe" 
+if exist "%JAVA_HOME%\bin\java.exe" goto init
+
+echo.
+e
