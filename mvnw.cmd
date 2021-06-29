@@ -71,4 +71,4 @@ goto error
 if exist "%JAVA_HOME%\bin\java.exe" goto init
 
 echo.
-echo Error: JA
+echo Error: JAVA_HOME is set to
