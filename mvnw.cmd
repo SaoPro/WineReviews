@@ -78,4 +78,8 @@ echo location of your Java installation. >&2
 echo.
 goto error
 
-@REM ==== END VALIDATION ===
+@REM ==== END VALIDATION ====
+
+:init
+
+@R
