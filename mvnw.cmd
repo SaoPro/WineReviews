@@ -82,4 +82,4 @@ goto error
 
 :init
 
-@REM Find the project base dir, i.e
+@REM Find the project base dir, i.e. the direct
