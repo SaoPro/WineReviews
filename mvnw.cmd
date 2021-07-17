@@ -83,4 +83,4 @@ goto error
 :init
 
 @REM Find the project base dir, i.e. the directory that contains the folder ".mvn".
-@R
+@REM Fallback to
