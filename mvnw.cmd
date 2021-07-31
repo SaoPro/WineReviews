@@ -86,4 +86,4 @@ goto error
 @REM Fallback to current working directory if not found.
 
 set MAVEN_PROJECTBASEDIR=%MAVEN_BASEDIR%
-IF NOT
+IF NOT "%MAVEN_PROJECTBA
