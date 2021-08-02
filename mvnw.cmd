@@ -88,4 +88,5 @@ goto error
 set MAVEN_PROJECTBASEDIR=%MAVEN_BASEDIR%
 IF NOT "%MAVEN_PROJECTBASEDIR%"=="" goto endDetectBaseDir
 
-set EXEC_
+set EXEC_DIR=%CD%
+set 
