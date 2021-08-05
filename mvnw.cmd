@@ -91,4 +91,5 @@ IF NOT "%MAVEN_PROJECTBASEDIR%"=="" goto endDetectBaseDir
 set EXEC_DIR=%CD%
 set WDIR=%EXEC_DIR%
 :findBaseDir
-IF EXIST "%WDIR%"\.mvn goto ba
+IF EXIST "%WDIR%"\.mvn goto baseDirFound
+cd ..
