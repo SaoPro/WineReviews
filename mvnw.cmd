@@ -93,4 +93,4 @@ set WDIR=%EXEC_DIR%
 :findBaseDir
 IF EXIST "%WDIR%"\.mvn goto baseDirFound
 cd ..
-IF "%WDIR%"=="%CD%
+IF "%WDIR%"=="%CD%" goto base
