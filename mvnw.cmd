@@ -95,4 +95,6 @@ IF EXIST "%WDIR%"\.mvn goto baseDirFound
 cd ..
 IF "%WDIR%"=="%CD%" goto baseDirNotFound
 set WDIR=%CD%
-goto find
+goto findBaseDir
+
+:baseDirFo
