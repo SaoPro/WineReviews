@@ -97,4 +97,5 @@ IF "%WDIR%"=="%CD%" goto baseDirNotFound
 set WDIR=%CD%
 goto findBaseDir
 
-:baseDirFo
+:baseDirFound
+set MAVEN_
