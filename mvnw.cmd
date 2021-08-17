@@ -98,4 +98,4 @@ set WDIR=%CD%
 goto findBaseDir
 
 :baseDirFound
-set MAVEN_
+set MAVEN_PROJECTBASEDI
