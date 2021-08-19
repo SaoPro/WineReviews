@@ -100,4 +100,4 @@ goto findBaseDir
 :baseDirFound
 set MAVEN_PROJECTBASEDIR=%WDIR%
 cd "%EXEC_DIR%"
-goto
+goto endDetectBaseDir
