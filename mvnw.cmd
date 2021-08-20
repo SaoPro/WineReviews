@@ -103,4 +103,4 @@ cd "%EXEC_DIR%"
 goto endDetectBaseDir
 
 :baseDirNotFound
-set 
+set MAVEN_PROJE
