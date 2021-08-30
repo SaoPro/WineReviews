@@ -106,4 +106,6 @@ goto endDetectBaseDir
 set MAVEN_PROJECTBASEDIR=%EXEC_DIR%
 cd "%EXEC_DIR%"
 
-:endDetectBase
+:endDetectBaseDir
+
+IF NOT
