@@ -108,4 +108,4 @@ cd "%EXEC_DIR%"
 
 :endDetectBaseDir
 
-IF NOT
+IF NOT EXIST "%MAVE
