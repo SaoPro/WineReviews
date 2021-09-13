@@ -108,4 +108,4 @@ cd "%EXEC_DIR%"
 
 :endDetectBaseDir
 
-IF NOT EXIST "%MAVEN_PROJECTBASEDIR%\.mvn\jvm.config" goto endR
+IF NOT EXIST "%MAVEN_PROJECTBASEDIR%\.mvn\jvm.config" goto endReadAddition
