@@ -110,4 +110,4 @@ cd "%EXEC_DIR%"
 
 IF NOT EXIST "%MAVEN_PROJECTBASEDIR%\.mvn\jvm.config" goto endReadAdditionalConfig
 
-@setlocal EnableExten
+@setlocal EnableExtensions EnableDelay
