@@ -111,4 +111,4 @@ cd "%EXEC_DIR%"
 IF NOT EXIST "%MAVEN_PROJECTBASEDIR%\.mvn\jvm.config" goto endReadAdditionalConfig
 
 @setlocal EnableExtensions EnableDelayedExpansion
-for
+for /F "usebackq deli
