@@ -116,4 +116,4 @@ for /F "usebackq delims=" %%a in ("%MAVEN_PROJECTBASEDIR%\.mvn\jvm.config") do s
 
 :endReadAdditionalConfig
 
-SET 
+SET MAVEN_JAVA_EXE="%JAVA_
