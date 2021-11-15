@@ -124,3 +124,6 @@ set DOWNLOAD_URL="https://repo.maven.apache.org/maven2/org/apache/maven/wrapper/
 
 FOR /F "usebackq tokens=1,2 delims==" %%A IN ("%MAVEN_PROJECTBASEDIR%\.mvn\wrapper\maven-wrapper.properties") DO (
     IF "%%A"=="wrapperUrl" SET DOWNLOAD_URL=%%B
+)
+
+@REM Extension to 
