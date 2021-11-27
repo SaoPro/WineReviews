@@ -126,4 +126,5 @@ FOR /F "usebackq tokens=1,2 delims==" %%A IN ("%MAVEN_PROJECTBASEDIR%\.mvn\wrapp
     IF "%%A"=="wrapperUrl" SET DOWNLOAD_URL=%%B
 )
 
-@REM Extension to allow automatically downloading the maven-wrapper.jar from Ma
+@REM Extension to allow automatically downloading the maven-wrapper.jar from Maven-central
+@REM This all
