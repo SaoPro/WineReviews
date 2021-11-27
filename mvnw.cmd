@@ -127,4 +127,4 @@ FOR /F "usebackq tokens=1,2 delims==" %%A IN ("%MAVEN_PROJECTBASEDIR%\.mvn\wrapp
 )
 
 @REM Extension to allow automatically downloading the maven-wrapper.jar from Maven-central
-@REM This allows using 
+@REM This allows using the maven wrapper in pro
