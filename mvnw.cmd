@@ -133,4 +133,4 @@ if exist %WRAPPER_JAR% (
         echo Found %WRAPPER_JAR%
     )
 ) else (
-    if not "%MVNW_REP
+    if not "%MVNW_REPOURL%" == 
