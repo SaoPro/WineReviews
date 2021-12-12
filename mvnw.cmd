@@ -132,4 +132,5 @@ if exist %WRAPPER_JAR% (
     if "%MVNW_VERBOSE%" == "true" (
         echo Found %WRAPPER_JAR%
     )
-) else 
+) else (
+    if not "%MVNW_REP
