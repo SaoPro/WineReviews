@@ -134,4 +134,4 @@ if exist %WRAPPER_JAR% (
     )
 ) else (
     if not "%MVNW_REPOURL%" == "" (
-        SET
+        SET DOWNLOAD_URL="%
