@@ -136,4 +136,5 @@ if exist %WRAPPER_JAR% (
     if not "%MVNW_REPOURL%" == "" (
         SET DOWNLOAD_URL="%MVNW_REPOURL%/org/apache/maven/wrapper/maven-wrapper/3.1.0/maven-wrapper-3.1.0.jar"
     )
-    if "%MVNW_VERBOSE%" == "tr
+    if "%MVNW_VERBOSE%" == "true" (
+        ech
