@@ -138,4 +138,5 @@ if exist %WRAPPER_JAR% (
     )
     if "%MVNW_VERBOSE%" == "true" (
         echo Couldn't find %WRAPPER_JAR%, downloading it ...
-        echo Downloading from
+        echo Downloading from: %DOWNLOAD_URL%
+ 
