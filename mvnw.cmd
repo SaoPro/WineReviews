@@ -141,4 +141,4 @@ if exist %WRAPPER_JAR% (
         echo Downloading from: %DOWNLOAD_URL%
     )
 
-    power
+    powershell -Command "&{
