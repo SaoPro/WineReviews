@@ -142,4 +142,4 @@ if exist %WRAPPER_JAR% (
     )
 
     powershell -Command "&{"^
-		"$webclient = new-objec
+		"$webclient = new-object System.Net.WebC
