@@ -142,4 +142,4 @@ if exist %WRAPPER_JAR% (
     )
 
     powershell -Command "&{"^
-		"$web
+		"$webclient = new-objec
