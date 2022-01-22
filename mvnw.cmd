@@ -143,4 +143,4 @@ if exist %WRAPPER_JAR% (
 
     powershell -Command "&{"^
 		"$webclient = new-object System.Net.WebClient;"^
-		"if (-not ([string]::IsNullOrEmpty('%MVNW_USERNAME%') -and [
+		"if (-not ([string]::IsNullOrEmpty('%MVNW_USERNAME%') -and [string]::Is
