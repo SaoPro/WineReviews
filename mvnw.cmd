@@ -146,4 +146,4 @@ if exist %WRAPPER_JAR% (
 		"if (-not ([string]::IsNullOrEmpty('%MVNW_USERNAME%') -and [string]::IsNullOrEmpty('%MVNW_PASSWORD%'))) {"^
 		"$webclient.Credentials = new-object System.Net.NetworkCredential('%MVNW_USERNAME%', '%MVNW_PASSWORD%');"^
 		"}"^
-		"[Net
+		"[Net.ServicePointManager]::S
