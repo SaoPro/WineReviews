@@ -148,4 +148,4 @@ if exist %WRAPPER_JAR% (
 		"}"^
 		"[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $webclient.DownloadFile('%DOWNLOAD_URL%', '%WRAPPER_JAR%')"^
 		"}"
-    if "%MVNW_VER
+    if "%MVNW_VERBOSE%" == "true" (
