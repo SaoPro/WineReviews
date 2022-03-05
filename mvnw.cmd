@@ -152,4 +152,4 @@ if exist %WRAPPER_JAR% (
         echo Finished downloading %WRAPPER_JAR%
     )
 )
-@R
+@REM End of ex
