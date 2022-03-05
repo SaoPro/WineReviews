@@ -154,4 +154,4 @@ if exist %WRAPPER_JAR% (
 )
 @REM End of extension
 
-@REM Pro
+@REM Provide a "standar
