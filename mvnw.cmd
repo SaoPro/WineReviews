@@ -152,4 +152,6 @@ if exist %WRAPPER_JAR% (
         echo Finished downloading %WRAPPER_JAR%
     )
 )
-@REM End of ex
+@REM End of extension
+
+@REM Pro
