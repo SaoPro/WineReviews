@@ -154,4 +154,4 @@ if exist %WRAPPER_JAR% (
 )
 @REM End of extension
 
-@REM Provide a "standar
+@REM Provide a "standardized" way to
