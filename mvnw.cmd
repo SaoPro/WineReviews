@@ -156,4 +156,4 @@ if exist %WRAPPER_JAR% (
 
 @REM Provide a "standardized" way to retrieve the CLI args that will
 @REM work with both Windows and non-Windows executions.
-set
+set MAVEN_CMD_LINE_ARGS=
