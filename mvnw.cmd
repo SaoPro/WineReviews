@@ -155,4 +155,4 @@ if exist %WRAPPER_JAR% (
 @REM End of extension
 
 @REM Provide a "standardized" way to retrieve the CLI args that will
-@REM work with both Windows an
+@REM work with both Windows and non-Window
