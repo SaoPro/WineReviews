@@ -162,4 +162,5 @@ set MAVEN_CMD_LINE_ARGS=%*
   %JVM_CONFIG_MAVEN_PROPS% ^
   %MAVEN_OPTS% ^
   %MAVEN_DEBUG_OPTS% ^
-  -classpath %WRAPPER_J
+  -classpath %WRAPPER_JAR% ^
+  "-Dmaven
