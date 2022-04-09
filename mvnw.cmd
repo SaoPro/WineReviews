@@ -163,4 +163,4 @@ set MAVEN_CMD_LINE_ARGS=%*
   %MAVEN_OPTS% ^
   %MAVEN_DEBUG_OPTS% ^
   -classpath %WRAPPER_JAR% ^
-  "-Dmaven.multiModuleProjectDir
+  "-Dmaven.multiModuleProjectDirectory=%MAVEN_PROJEC
