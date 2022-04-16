@@ -169,4 +169,6 @@ if ERRORLEVEL 1 goto error
 goto end
 
 :error
-set
+set ERROR_CODE=1
+
+:
