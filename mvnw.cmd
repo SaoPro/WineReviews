@@ -165,4 +165,8 @@ set MAVEN_CMD_LINE_ARGS=%*
   -classpath %WRAPPER_JAR% ^
   "-Dmaven.multiModuleProjectDirectory=%MAVEN_PROJECTBASEDIR%" ^
   %WRAPPER_LAUNCHER% %MAVEN_CONFIG% %*
-if ERRORLEVEL 1 goto er
+if ERRORLEVEL 1 goto error
+goto end
+
+:error
+set
