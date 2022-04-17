@@ -174,4 +174,4 @@ set ERROR_CODE=1
 :end
 @endlocal & set ERROR_CODE=%ERROR_CODE%
 
-if not "
+if not "%MAVEN_SKI
