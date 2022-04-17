@@ -171,4 +171,5 @@ goto end
 :error
 set ERROR_CODE=1
 
-:
+:end
+@endlocal & 
