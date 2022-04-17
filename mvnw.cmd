@@ -172,4 +172,4 @@ goto end
 set ERROR_CODE=1
 
 :end
-@endlocal & 
+@endlocal & set ERROR_CODE=%ERROR_C
