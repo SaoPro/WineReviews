@@ -174,4 +174,5 @@ set ERROR_CODE=1
 :end
 @endlocal & set ERROR_CODE=%ERROR_CODE%
 
-if not "%MAVEN_SKIP_RC%"=="" goto
+if not "%MAVEN_SKIP_RC%"=="" goto skipRcPost
+@REM 
