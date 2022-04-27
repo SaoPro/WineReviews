@@ -175,4 +175,4 @@ set ERROR_CODE=1
 @endlocal & set ERROR_CODE=%ERROR_CODE%
 
 if not "%MAVEN_SKIP_RC%"=="" goto skipRcPost
-@REM check for post script, once with le
+@REM check for post script, once with legacy .bat endin
