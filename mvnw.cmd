@@ -181,4 +181,6 @@ if exist "%USERPROFILE%\mavenrc_post.cmd" call "%USERPROFILE%\mavenrc_post.cmd"
 :skipRcPost
 
 @REM pause the script if MAVEN_BATCH_PAUSE is set to 'on'
-if "%MAVEN_BATCH_PAUSE%"=="on" paus
+if "%MAVEN_BATCH_PAUSE%"=="on" pause
+
+if "%MAVEN_TERM
