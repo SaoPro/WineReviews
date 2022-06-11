@@ -1,1 +1,1 @@
-package com.cimb
+package com.cimb.juniorindie;
