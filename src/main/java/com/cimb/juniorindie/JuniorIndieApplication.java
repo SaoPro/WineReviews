@@ -1,4 +1,5 @@
 package com.cimb.juniorindie;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBoot
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
