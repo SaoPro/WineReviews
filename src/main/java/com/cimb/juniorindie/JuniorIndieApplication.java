@@ -6,4 +6,5 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JuniorIndieApplication {
 
-	public static void main(Strin
+	public static void main(String[] args) {
+		SpringAp
