@@ -7,4 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JuniorIndieApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JuniorIndieApplication.class, args
+		SpringApplication.run(JuniorIndieApplication.class, args);
+	}
+
+}
