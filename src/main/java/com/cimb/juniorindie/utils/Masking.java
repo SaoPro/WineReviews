@@ -4,4 +4,4 @@ import java.util.Date;
 
 public class Masking {
 
-    public static void main(Stri
+    public static void main(String[] args) throws Ex
