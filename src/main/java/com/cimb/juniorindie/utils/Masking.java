@@ -6,4 +6,5 @@ public class Masking {
 
     public static void main(String[] args) throws Exception {
 
-        String strNIK = "12345678
+        String strNIK = "1234567812345678";
+ 
