@@ -9,4 +9,6 @@ public class Masking {
         String strNIK = "1234567812345678";
         String strPOB = "Cirebon";
 
-        System.out.println( maskString(strNIK, 0, 12, '*
+        System.out.println( maskString(strNIK, 0, 12, '*') );
+
+        Sy
