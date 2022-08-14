@@ -11,4 +11,4 @@ public class Masking {
 
         System.out.println( maskString(strNIK, 0, 12, '*') );
 
-        Sy
+        System.out.print
