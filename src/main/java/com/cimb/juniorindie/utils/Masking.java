@@ -11,4 +11,4 @@ public class Masking {
 
         System.out.println( maskString(strNIK, 0, 12, '*') );
 
-        System.out.println( maskString(convertToFiveLength(strPOB), 3, strPOB
+        System.out.println( maskString(convertToFiveLength(strPOB), 3, strPOB.length(), '*') );
