@@ -14,4 +14,5 @@ public class Masking {
         System.out.println( maskString(convertToFiveLength(strPOB), 3, strPOB.length(), '*') );
     }
 
-    public static String convertToFiveLength(String strPOB
+    public static String convertToFiveLength(String strPOB){
+        Strin
