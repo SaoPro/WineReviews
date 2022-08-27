@@ -16,4 +16,4 @@ public class Masking {
 
     public static String convertToFiveLength(String strPOB){
         String strLength = null;
-        if(s
+        if(strPOB.length() 
