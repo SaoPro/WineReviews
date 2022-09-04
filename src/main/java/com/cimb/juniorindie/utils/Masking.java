@@ -18,4 +18,5 @@ public class Masking {
         String strLength = null;
         if(strPOB.length() > 5) {
             strLength = strPOB.substring(0,5);
- 
+        }
+     
