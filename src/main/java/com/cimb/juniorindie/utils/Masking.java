@@ -22,4 +22,4 @@ public class Masking {
         return strLength;
     }
 
-    public static String
+    public static String maskString(S
