@@ -22,4 +22,4 @@ public class Masking {
         return strLength;
     }
 
-    public static String maskString(String strText, int start
+    public static String maskString(String strText, int start, int end, char
