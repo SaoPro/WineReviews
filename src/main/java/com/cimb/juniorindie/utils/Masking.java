@@ -22,4 +22,5 @@ public class Masking {
         return strLength;
     }
 
-    public static String maskString(String strText, int start, int end, char maskChar) throws
+    public static String maskString(String strText, int start, int end, char maskChar) throws Exception {
+ 
