@@ -23,4 +23,4 @@ public class Masking {
     }
 
     public static String maskString(String strText, int start, int end, char maskChar) throws Exception {
-        if(strT
+        if(strText == null
