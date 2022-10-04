@@ -24,4 +24,5 @@ public class Masking {
 
     public static String maskString(String strText, int start, int end, char maskChar) throws Exception {
         if(strText == null || strText.equals(""))
-      
+            return "";
+
