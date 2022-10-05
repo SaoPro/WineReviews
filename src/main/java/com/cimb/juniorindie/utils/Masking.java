@@ -27,4 +27,6 @@ public class Masking {
             return "";
 
         if(start < 0)
-            sta
+            start = 0;
+
+        
