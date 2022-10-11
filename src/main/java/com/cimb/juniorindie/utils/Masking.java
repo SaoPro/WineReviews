@@ -29,4 +29,4 @@ public class Masking {
         if(start < 0)
             start = 0;
 
-        
+        if( end > str
