@@ -30,3 +30,4 @@ public class Masking {
             start = 0;
 
         if( end > strText.length() )
+            end = s
