@@ -32,4 +32,5 @@ public class Masking {
         if( end > strText.length() )
             end = strText.length();
 
-        
+        if(start > end)
+ 
