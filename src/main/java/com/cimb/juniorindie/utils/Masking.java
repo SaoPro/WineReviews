@@ -33,4 +33,6 @@ public class Masking {
             end = strText.length();
 
         if(start > end)
-            throw new Exception("Start index cannot be greater t
+            throw new Exception("Start index cannot be greater than end index");
+
+        
