@@ -35,4 +35,4 @@ public class Masking {
         if(start > end)
             throw new Exception("Start index cannot be greater than end index");
 
-        
+        int maskLength = en
