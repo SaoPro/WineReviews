@@ -38,4 +38,6 @@ public class Masking {
         int maskLength = end - start;
 
         if(maskLength == 0)
-          
+            return strText;
+
+   
