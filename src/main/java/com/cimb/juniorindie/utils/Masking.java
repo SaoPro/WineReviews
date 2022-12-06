@@ -37,4 +37,4 @@ public class Masking {
 
         int maskLength = end - start;
 
-    
+        if(maskLength 
