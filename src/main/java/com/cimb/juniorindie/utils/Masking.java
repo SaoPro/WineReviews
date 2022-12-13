@@ -40,4 +40,4 @@ public class Masking {
         if(maskLength == 0)
             return strText;
 
-        StringBuilder sbMaskString = new St
+        StringBuilder sbMaskString = new StringBuilder
