@@ -42,4 +42,4 @@ public class Masking {
 
         StringBuilder sbMaskString = new StringBuilder(maskLength);
 
-        for(int
+        for(int i = 0; i < maskLengt
