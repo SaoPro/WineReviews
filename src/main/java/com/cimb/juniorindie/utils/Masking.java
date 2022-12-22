@@ -44,3 +44,6 @@ public class Masking {
 
         for(int i = 0; i < maskLength; i++){
             sbMaskString.append(maskChar);
+        }
+
+        re
