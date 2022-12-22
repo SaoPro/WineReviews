@@ -46,4 +46,4 @@ public class Masking {
             sbMaskString.append(maskChar);
         }
 
-        re
+        return strText
