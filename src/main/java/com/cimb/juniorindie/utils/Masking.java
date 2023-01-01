@@ -47,4 +47,5 @@ public class Masking {
         }
 
         return strText.substring(0, start)
-                + sbMaskString.toStrin
+                + sbMaskString.toString()
+              
