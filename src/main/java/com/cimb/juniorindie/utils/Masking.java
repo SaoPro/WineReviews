@@ -48,4 +48,6 @@ public class Masking {
 
         return strText.substring(0, start)
                 + sbMaskString.toString()
-                + strText.substring(start + maskLengt
+                + strText.substring(start + maskLength);
+    }
+}
