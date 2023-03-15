@@ -6,4 +6,5 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class JuniorIndieApplicationTests {
 
-	@
+	@Test
+	void context
