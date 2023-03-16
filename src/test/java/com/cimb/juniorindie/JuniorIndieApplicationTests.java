@@ -7,4 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class JuniorIndieApplicationTests {
 
 	@Test
-	void context
+	void contextLoads() {
+	}
+
+}
